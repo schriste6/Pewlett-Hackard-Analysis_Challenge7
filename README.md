@@ -2,10 +2,21 @@
 # Overview  
 ## Pewlett-Hackard is embarking on succession planning as a large number of current employees near retirement - this cohort of pending retirees is respectfully known as the 'silver tsunami'. A succession plan ensures that there will be qualified candidates when key vacancies occur.  To compliment succession planning, a mentorship program is up for consideration.  
 
-### Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-1.  Pewlett-Hackerd has identified 72,45 employees nearing retirement.  Below is a breakdown by job title:
-    * ![](/Images/retiring_titles.png)
-2. 
-### Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+### Results: 
+  Employees:
+  1. Pewlett-Hackerd has 300,024 current employees
+  2. 72,458 (23%) are nearing retirement
+  3. 50,842 (70%) of those nearing retirement are in senior positions; senior engineer or senior staff
+  A Mentorship Program is a viable compliment to succession planning:
+  4.  1549 current employees are eligible to participate in a mentorship program
+      * current qualifying criteria is birthdate in 1965.
+ ### Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* 70,458 positions will be impacted by the "silver tsunami" - this is a big number!  
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* 1549 staff are eligible to mentor upcoming staff - it's a start!
+* Breakdown of job titles nearing retirement:
+    ![](/Images/retiring_titles.png)
+* Breakdown of job titles eligible for the mentorship program: 
+   ![](/Images/mentoring_eligibility_titles.png)
