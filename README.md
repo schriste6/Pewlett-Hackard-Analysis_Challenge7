@@ -18,10 +18,12 @@ Are there enough qualified, retirement-ready employees in the departments to men
 * 1549 staff are eligible to mentor upcoming staff - it's a start!
 * Breakdown of job titles nearing retirement:  
 
-    ![](/Images/retiring_titles.png)
+    ![](/Images/retiring_titles.png)  
+    
 * Breakdown of job titles eligible for the mentorship program:   
 
-   ![](/Images/mentoring_eligibility_titles.png)
+   ![](/Images/mentoring_eligibility_titles.png)  
+   
 Considering current titles eligible for mentorship, it would breakdown to the following ratio of mentor: mentee if only focusing on senior staff: 
 * Sr. Engr - 1:50
 * Sr. Staff - 1:171
