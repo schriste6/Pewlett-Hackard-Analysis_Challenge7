@@ -16,7 +16,9 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 * 1549 staff are eligible to mentor upcoming staff - it's a start!
-* Breakdown of job titles nearing retirement:
+* Breakdown of job titles nearing retirement:  
+
     ![](/Images/retiring_titles.png)
-* Breakdown of job titles eligible for the mentorship program: 
+* Breakdown of job titles eligible for the mentorship program:   
+
    ![](/Images/mentoring_eligibility_titles.png)
