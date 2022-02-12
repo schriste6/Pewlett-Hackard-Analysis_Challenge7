@@ -25,12 +25,13 @@ Are there enough qualified, retirement-ready employees in the departments to men
    
 Considering current titles eligible for mentorship, it would breakdown to the following ratio of mentor: mentee if only focusing on senior staff: 
 * Sr. Engr - 1:50
-* Sr. Staff - 1:171
-Studies prove Succession Planning and a complimentary Mentorship Program offer businesses the following:
-1. protect from sudden/unexpected change
-2. reveal vulnerabilities and highlight skills gaps
-3. promote training and development
-4. knowledge transfer and process refinement
-5. long-term talent planning and retention
-6. preserve brand integrity and reputation
+* Sr. Staff - 1:171  
+The mentorship program is a great start!  Supplemental strategies are needed until succession planning and mentoring are established and thriving.
+### Studies prove Succession Planning and a complimentary Mentorship Program offer businesses the following:
+  1. protect from sudden/unexpected change
+  2. reveal vulnerabilities and highlight skills gaps
+  3. promote training and development
+  4. knowledge transfer and process refinement
+  5. long-term talent planning and retention
+  6. preserve brand integrity and reputation
 # The time to start is now...
