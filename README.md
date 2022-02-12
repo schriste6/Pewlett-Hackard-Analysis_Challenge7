@@ -4,7 +4,7 @@
 
 ### Results - What are the numbers:  
   Employees:
-  1. Pewlett-Hackerd has 300,024 current employees
+  1. Pewlett-Hackard has 300,024 current employees
   2. 72,458 (23%) are nearing retirement
   3. 50,842 (70%) of those nearing retirement are in senior positions; senior engineer or senior staff
   A Mentorship Program is a viable compliment to succession planning:
