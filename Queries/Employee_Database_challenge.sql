@@ -91,3 +91,20 @@ ORDER BY employees.emp_no;
 -- #11 Before you export your table, confirm the deliverable to the challenge module image.
 SELECT * FROM mentorship_eligibility
 	
+-- Mentor eligible by title
+SELECT COUNT (mentorship_eligibility) count, title
+INTO mentorship_eligibility_titles
+FROM mentorship_eligibility
+GROUP BY title
+ORDER BY count DESC;
+
+
+SELECT COUNT (retirement_titles) count, emp_no
+INTO ee_title_count
+FROM retirement_titles
+GROUP BY emp_no
+ORDER BY count DESC;
+
+Select * FROM retirement_title
+
+Select * From dept_emp
